@@ -10,6 +10,10 @@ public class MainInterface {
 	}
 		private static void saludosMxicanos(){
 			
+			
+			System.out.println("test");
+			
+			
 			System.out.println("FUNCIONO EL COMMIT 1!!!");
 			System.out.println("Compatriotas Mexicanos");
 			System.out.println("Les deseamos un feliz 5 de Febrero");
